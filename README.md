@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton Ayzenberg @AntonAyzenberg
 - 👀 I’m interested in data science, advanced mathematics, and its applications
-- 🚀 I'm currently working in the university, and lead several research projects
-- 🌱 I’m currently learning parallel computation for abstract algebra
+- 🚀 I used to work in the university, where I lead several research projects
+- 🌱 I’m currently working in deep-tech startup company on discrete knowledge representations 
 - 💞️ I’m looking to collaborate on applications of geometry and topology in data science
 - 📫 Contact me at ayzenberga@gmail.com or Telegram @ayzenberga
 
